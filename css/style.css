@@ -1,0 +1,81 @@
+* {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+        sans-serif;
+}
+body {
+    min-height: 100vh;
+
+    background-image: linear-gradient(66.6deg, #19ad08, #196c7b);
+}
+
+.a2 {
+    padding-right: 80px;
+}
+.a1 {
+    padding-left: 80px;
+}
+.get {
+    font-size: 8rem;
+}
+h1,
+h5 {
+    color: rgb(235, 196, 42);
+    font-family: "Indie Flower", cursive !important;
+}
+li,
+p {
+    font-family: "Indie Flower", cursive;
+}
+a {
+    color: rgb(235, 196, 42) !important;
+    text-decoration: none;
+}
+.images {
+    width: 20px;
+    margin: 1%;
+}
+.bloging {
+    width: 100px;
+}
+.icon{
+    border-radius: 50%;
+}
+
+.first {
+    min-height: 100vh;
+}
+
+.he {
+    height: 370px !important;
+}
+.he2 {
+    height: 150px;
+}
+
+.gr {
+    background-image: linear-gradient(#1a6811,#323d5f);
+}
+
+.t {
+    max-height: 220px !important;
+}
+.mp-2 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyeNbbQjLKhfAQ1A8pHMrMdzUH7VmeON_8K5X29kOGXleFDA9qpVzPj5SD-oZKvYyC2u8&usqp=CAU") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 576px) {
+    .a1 {
+        padding: 0;
+    }
+    .a2 {
+        padding: 0;
+    }
+}
