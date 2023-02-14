@@ -11,8 +11,9 @@
 body {
     min-height: 100vh;
 
-    background-image: linear-gradient(66.6deg, #19ad08, #196c7b);
+    background-image: linear-gradient(to right, #2a7622, #145f6d);
 }
+
 
 .a2 {
     padding-right: 80px;
@@ -43,7 +44,7 @@ a {
 .bloging {
     width: 100px;
 }
-.icon{
+.icon {
     border-radius: 50%;
 }
 
@@ -59,7 +60,7 @@ a {
 }
 
 .gr {
-    background-image: linear-gradient(#065e38,#184151);
+    background-image: linear-gradient( to right,#0c7b4b, #103a4b);
 }
 
 .t {
